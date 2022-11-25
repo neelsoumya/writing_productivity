@@ -57,13 +57,13 @@ https://github.com/robjhyndman/ResearchHabits/blob/master/ResearchHabits.pdf
 
 9) Craft excellent resubmission letters
 
-Video of writing skills (link) at the 51:00 mark or before the person talks about how the task of writing is to change the ideas in other people's heads; those people are the prominent people in that subfield; that is what it means to be a successful professor
+* Video of writing skills (link) at the 51:00 mark or before the person talks about how the task of writing is to change the ideas in other people's heads; those people are the prominent people in that subfield; that is what it means to be a successful professor
 
 https://www.youtube.com/watch?v=vtIzMaLkCaM&t=3085s
 
 https://www.coursera.org/learn/sciwrite
 
-Coursera course on writing by Kristin Sainani
+* Coursera course on writing by Kristin Sainani
 
       1) Figures and tables should be self-explanatory
       
@@ -81,6 +81,6 @@ Coursera course on writing by Kristin Sainani
 
 * Advice on writing by EO Wilson 
 
-        Write daily
+  Write daily
 
-        https://news.harvard.edu/gazette/story/2014/04/search-until-you-find-a-passion-and-go-all-out-to-excel-in-its-expression/
+  https://news.harvard.edu/gazette/story/2014/04/search-until-you-find-a-passion-and-go-all-out-to-excel-in-its-expression/
