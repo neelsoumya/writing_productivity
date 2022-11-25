@@ -59,9 +59,15 @@ https://github.com/robjhyndman/ResearchHabits/blob/master/ResearchHabits.pdf
 
 Video of writing skills (link) at the 51:00 mark or before the person talks about how the task of writing is to change the ideas in other people's heads; those people are the prominent people in that subfield; that is what it means to be a successful professor
 
+https://www.youtube.com/watch?v=vtIzMaLkCaM&t=3085s
+
+https://www.coursera.org/learn/sciwrite
+
 Coursera course on writing by Kristin Sainani
 
       1) Figures and tables should be self-explanatory
+      
+      https://www.coursera.org/lecture/sciwrite/6-3-the-submission-process-CZADr
 
       2) link  
 
@@ -73,6 +79,8 @@ Coursera course on writing by Kristin Sainani
 
 
 
-Advice on writing by EO Wilson (link)
+* Advice on writing by EO Wilson 
 
         Write daily
+
+        https://news.harvard.edu/gazette/story/2014/04/search-until-you-find-a-passion-and-go-all-out-to-excel-in-its-expression/
