@@ -84,3 +84,10 @@ https://www.coursera.org/learn/sciwrite
   Write daily
 
   https://news.harvard.edu/gazette/story/2014/04/search-until-you-find-a-passion-and-go-all-out-to-excel-in-its-expression/
+
+
+
+
+* Why I write by Orwell
+
+https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
