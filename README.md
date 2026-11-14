@@ -85,7 +85,10 @@ https://www.coursera.org/learn/sciwrite
 
   https://news.harvard.edu/gazette/story/2014/04/search-until-you-find-a-passion-and-go-all-out-to-excel-in-its-expression/
 
+* Arthur C Clarke writing advice
 
+  - read something daily
+  - for students in AI and computer science, 🧬 🧪 🧫 subscribe to a weekly 🗞 📰 newsletter called [`The Batch`](https://www.deeplearning.ai/the-batch)
 
 
 * Why I write by Orwell
