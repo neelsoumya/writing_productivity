@@ -87,9 +87,10 @@ https://www.coursera.org/learn/sciwrite
 
 * Arthur C Clarke writing advice
 
-  - read something daily
+  > read something daily
   - for students in AI and computer science, 🧬 🧪 🧫 subscribe to a weekly 🗞 📰 newsletter called [`The Batch`](https://www.deeplearning.ai/the-batch)
 
+- 🎮 💡 🛠️ [class exercise read this article 📚 📝 and discuss](https://www.deeplearning.ai/the-batch/issue-371)
 
 * Why I write by Orwell
 
