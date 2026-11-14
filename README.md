@@ -103,5 +103,5 @@ https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-w
 - 🧩🚀 Figures should stand on their own (standalone)
 
   
-- [data storytelling](https://neelsoumya.github.io/visualization_lecture/data_storytelling.html) and [exercise](https://colab.research.google.com/drive/1j5v1chzu5mVPHGXqPXbenkPxolCwm150?usp=sharing)
+- [data storytelling](https://neelsoumya.github.io/visualization_lecture/data_storytelling.html) 
 - [interactive visualizations](https://neelsoumya.github.io/visualization_lecture/exercises/exercise_week7.html#huggingface)
