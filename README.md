@@ -94,3 +94,14 @@ https://www.coursera.org/learn/sciwrite
 * Why I write by Orwell
 
 https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
+
+
+## Plots and visualizations
+
+- [Plots and visualizations for papers](https://neelsoumya.github.io/visualization_lecture/succinct_plots.html)
+- Aim for plots that quickly tell you what you need to get out of your data
+- 🧩🚀 Figures should stand on their own (standalone)
+
+  
+- [data storytelling](https://neelsoumya.github.io/visualization_lecture/data_storytelling.html) and [exercise](https://colab.research.google.com/drive/1j5v1chzu5mVPHGXqPXbenkPxolCwm150?usp=sharing)
+- [interactive visualizations](https://neelsoumya.github.io/visualization_lecture/exercises/exercise_week7.html#huggingface)
