@@ -132,3 +132,11 @@ https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-w
 > open with a promise and close with a joke
 
 - [How to teach by Prof. Patrick Winston](https://www.ocw-openmatters.org/2016/07/19/open-with-a-promise-close-with-a-joke/)
+
+- [Writing exercises at the beginning of class and how to start a class](chronicle.com/article/Small-Changes-in-Teaching-The/234869?cid=wcontentgrid_hp_13)
+
+>Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.
+
+> The sentence forces us to keep reading
+
+- shift attention
