@@ -11,6 +11,13 @@ https://getpocket.com/explore/item/how-to-be-productive-according-to-ancient-phi
 https://www.youtube.com/watch?v=DeVjXINr5Wk
 
 
+## Slides
+
+- [slides](materials/The_Architecture_of_Academic_Productivity.pdf)
+
+![image](materials/Academic_Writing_Strategies_Infographic.png)
+
+
 ## Resources
 
 1) How to Write a Lot: A Practical Guide to Productive Academic Writing by Paul J Silvia (notes) (video) (research habits by Rob Hyndman)
