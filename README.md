@@ -36,7 +36,7 @@ https://github.com/robjhyndman/ResearchHabits/blob/master/ResearchHabits.pdf
 
 * Wrap up
 
-1) the joy of scheduling (stick to a schedule)
+1) >the joy of scheduling (stick to a schedule)
 
 2) want less, do more
 
