@@ -96,7 +96,7 @@ https://www.coursera.org/learn/sciwrite
 
   > read something daily
   
-  > read at least one book a day and write as much as you can. Study the memoirs of authors that interest you (Somerset Maugham's _A Writer's Notebook_ is a good example). .... All the authors I knew were self-taught. There is no substitute for living. As Hemingway wisely remarked _Writing is not a full-time occupation_
+  > read at least one book a day and write as much as you can. Study the memoirs of authors that interest you (Somerset Maugham's [_A Writer's Notebook_](https://archive.org/details/in.ernet.dli.2015.135179/page/XIII/mode/2up) is a good example). .... All the authors I knew were self-taught. There is no substitute for living. As Hemingway wisely remarked _Writing is not a full-time occupation_
   
   - for students in AI and computer science, 🧬 🧪 🧫 subscribe to a weekly 🗞 📰 newsletter called [`The Batch`](https://www.deeplearning.ai/the-batch)
 
@@ -111,6 +111,8 @@ https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-w
 - 📚 📝 [class exercise read this article 📚 📝 and discuss](https://www.deeplearning.ai/the-batch/issue-371)
 
 - 📚 📝 [class reading article in the journal 📔  AI and Society](https://link.springer.com/article/10.1007/s00146-024-01931-1)
+
+- 📝 Ficciones by Jorge Luis Borges
 
 
 ## Plots and visualizations
