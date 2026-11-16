@@ -95,6 +95,9 @@ https://www.coursera.org/learn/sciwrite
 * Arthur C Clarke writing advice
 
   > read something daily
+  
+  > read at least one book a day and write as much as you can. Study the memoirs of authors that interest you (Somerset Maugham's _A Writer's Notebook_ is a good example). .... All the authors I knew were self-taught. There is no substitute for living. As Hemingway wisely remarked _Writing is not a full-time occupation_
+  
   - for students in AI and computer science, 🧬 🧪 🧫 subscribe to a weekly 🗞 📰 newsletter called [`The Batch`](https://www.deeplearning.ai/the-batch)
 
 - 🎮 💡 🛠️ [class exercise read this article 📚 📝 and discuss](https://www.deeplearning.ai/the-batch/issue-371)
@@ -102,6 +105,12 @@ https://www.coursera.org/learn/sciwrite
 * Why I write by Orwell
 
 https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
+
+## Readings
+
+- 📚 📝 [class exercise read this article 📚 📝 and discuss](https://www.deeplearning.ai/the-batch/issue-371)
+
+- 📚 📝 [class reading article in the journal 📔  AI and Society](https://link.springer.com/article/10.1007/s00146-024-01931-1)
 
 
 ## Plots and visualizations
@@ -113,3 +122,11 @@ https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-w
   
 - [data storytelling](https://neelsoumya.github.io/visualization_lecture/data_storytelling.html) 
 - [interactive visualizations](https://neelsoumya.github.io/visualization_lecture/exercises/exercise_week7.html#huggingface)
+
+## How to give talks and how to teach
+
+- [How to speak by Prof. Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+
+> open with a promise and close with a joke
+
+- [How to teach by Prof. Patrick Winston](https://www.ocw-openmatters.org/2016/07/19/open-with-a-promise-close-with-a-joke/)
