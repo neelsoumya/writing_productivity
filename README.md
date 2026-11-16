@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=DeVjXINr5Wk
 
 ## Resources
 
-1) How to Write a Lot: A Practical Guide to Productive Academic Writing by Paul J Silvia (notes) (video) (research habits by Rob Hyndman)
+1) 🎥 How to Write a Lot: A Practical Guide to Productive Academic Writing by Paul J Silvia (notes) (video) (research habits by Rob Hyndman)
 
 https://www.youtube.com/watch?v=DeVjXINr5Wk
 
@@ -52,7 +52,7 @@ https://github.com/robjhyndman/ResearchHabits/blob/master/ResearchHabits.pdf
 
 3) monitor progress
 
-4) agraphia group
+4) `agraphia` group
 
 5) Write first, revise later
 
@@ -125,7 +125,7 @@ https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-w
 
 ## How to give talks and how to teach
 
-- [How to speak by Prof. Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [🎥 How to speak by Prof. Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 > open with a promise and close with a joke
 
